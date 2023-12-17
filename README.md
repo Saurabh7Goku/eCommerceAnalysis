@@ -11,8 +11,8 @@
  -`Link` -  
  
 #### Dashboard Features:
-    - This Dashboard has a navigator button to switch between quarters(qtr) like qtr1, qtr2, qtr3 and qtr4 for getting specific insight related to the specific quarter of the year.
-    - It has a dropdown button for getting info or the analysis for a particular state of India for more refine reporting.
+   - This Dashboard has a navigator button to switch between quarters(qtr) like qtr1, qtr2, qtr3 and qtr4 for getting specific insight related to the specific quarter of the year.
+   - It has a dropdown button for getting info or the analysis for a particular state of India for more refine reporting.
  
   ## Dashboard for the analysis
 
@@ -50,3 +50,6 @@
 
   #### Details table
   <img src="https://github.com/Saurabh7Goku/eCommerceAnalysis/blob/main/order_table.png" alt="Dataset Image">
+
+`Created by Saurabh Singh`
+ - Contact : [LinkedIN](https://www.linkedin.com/in/saurabhsingh-/)
