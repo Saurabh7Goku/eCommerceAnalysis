@@ -13,17 +13,14 @@
 #### Dashboard Features:
     - This Dashboard has a navigator button to switch between quarters(qtr) like qtr1, qtr2, qtr3 and qtr4 for getting specific insight related to the specific quarter of the year.
     - It has a dropdown button for getting info or the analysis for a particular state of India for more refine reporting.
-
-  ## Dataset Sample
-  <img src="https://github.com/Saurabh7Goku/Sales_data_analysis/blob/main/image_2023-10-31_142410683.png" alt="Dataset Image">
-
+ 
   ## Dashboard for the analysis
 
   - ### Home Dashboard
-  <img src="https://github.com/Saurabh7Goku/Sales_data_analysis/blob/main/pizza_sales_analysis.png" alt="Dataset Image">
+  <img src="https://github.com/Saurabh7Goku/eCommerceAnalysis/blob/main/eCommereSales.png" alt="Dataset Image">
 
   - ### Specific Quarter(qtr3) Dashboard
-  <img src="https://github.com/Saurabh7Goku/Sales_data_analysis/blob/main/best_worst_sellers.png" alt="Dataset Image">
+  <img src="https://github.com/Saurabh7Goku/eCommerceAnalysis/blob/main/eCommerceQtr3.png" alt="Dataset Image">
 
   ## Insights From The `Data Analysis`
   - Sum of Amount analysis
@@ -44,4 +41,12 @@
       - Sum of Profit is can be seen more in the first Quarter(qtr1).
   
   - Others
-      - Sum of Profit by Sub-Category is high on Printers and Bookcase Sales. 
+      - Sum of Profit by Sub-Category is high on Printers and Bookcase Sales.
+   
+    ## Dataset Sample
+
+  #### Details table
+  <img src="https://github.com/Saurabh7Goku/eCommerceAnalysis/blob/main/details_table.png" alt="Dataset Image">
+
+  #### Details table
+  <img src="https://github.com/Saurabh7Goku/eCommerceAnalysis/blob/main/order_table.png" alt="Dataset Image">
