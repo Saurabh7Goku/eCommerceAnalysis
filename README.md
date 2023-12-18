@@ -8,7 +8,7 @@
 
 ## Project Deployment:
  - This project is build using PowerBI Desktop application to build.
- -`Link` -  
+ -`Link` -  [Project-URL](https://portfolio-saurabh-singh-18.vercel.app/project2.html)
  
 #### Dashboard Features:
    - This Dashboard has a navigator button to switch between quarters(qtr) like qtr1, qtr2, qtr3 and qtr4 for getting specific insight related to the specific quarter of the year.
